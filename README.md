@@ -6,7 +6,7 @@ We think current automated marking solutions are super cool, but expensive. They
 
 Allows teachers to create tests within the app and compare student answers in a visual and intuitive manner. It then aggregates the data from multiple student responses to provide meaningful insights for future lessons and examinations.
 
-***How we built it: ***
+***How we built it:***
 
 Android Studio, Kotlin, Java, Google-Vision
 
@@ -35,4 +35,4 @@ Backup of class results
 
 java,kotlin,google-vision
 
-***Devpost link: *** https://devpost.com/software/testr-mlyn4d
+***Devpost link:*** https://devpost.com/software/testr-mlyn4d
